@@ -19,8 +19,8 @@ Follow these steps to get the project running on your local machine:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/writeMe.git
-cd writeMe
+git clone https://github.com/PathumLD/Paralax-Project.git
+cd Paralax-Project
 ```
 
 ### 2. Backend Setup (Laravel)
