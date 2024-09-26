@@ -99,5 +99,10 @@ The frontend should now be running at `http://localhost:5173`.
 
 Open your web browser and visit `http://localhost:5173` to access the writeMe blog application. The backend API will be accessible at `http://localhost:8000/api`.
 
+### For Admin Login
+
+email - admin@example.com
+password - password123
+
 
 If you encounter any issues or have questions, please open an issue on the GitHub repository.
