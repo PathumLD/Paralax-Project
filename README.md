@@ -101,8 +101,7 @@ Open your web browser and visit `http://localhost:5173` to access the writeMe bl
 
 ### For Admin Login
 
-email - admin@example.com
-password - password123
+email - admin@example.com | password - password123
 
 
 If you encounter any issues or have questions, please open an issue on the GitHub repository.
